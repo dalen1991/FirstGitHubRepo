@@ -7,3 +7,7 @@ public class Git {
 	}
 hghghghghghgh
 }
+//this is second method for prictice purposes 
+}
+
+}
